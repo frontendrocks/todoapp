@@ -1,0 +1,32 @@
+.todo {
+ background-color: #ffffff!important;
+}
+
+.outer {
+ background-color: beige;
+ padding: 30px;
+ border: 1px solid #ddd;
+ border-radius: 10pt;
+ margin-top: 50px!important;
+ width: 800px;
+
+}
+
+
+
+/* .btnPriamry {
+ position: relative;
+ top:-4px;
+} */
+
+button.btn.btn-primary.btnPriamry {
+    width: 23%;
+}
+
+.form-select {
+ width: 100px!important;
+}
+
+form.todoForm {
+    display: flex;
+}
