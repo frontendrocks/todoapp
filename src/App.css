@@ -2,15 +2,15 @@
  background-color: #ffffff!important;
 }
 
-.outer {
- background-color: beige;
+/* .outer {
+ background-color: #eef3f6;
  padding: 30px;
  border: 1px solid #ddd;
  border-radius: 10pt;
  margin-top: 50px!important;
  width: 800px;
 
-}
+} */
 
 
 
@@ -18,15 +18,20 @@
  position: relative;
  top:-4px;
 } */
-
+/* 
 button.btn.btn-primary.btnPriamry {
     width: 23%;
-}
+} */
 
-.form-select {
+/* .form-select {
  width: 100px!important;
 }
 
 form.todoForm {
     display: flex;
 }
+
+.list {
+ background-color: rgb(216, 230, 248);
+ padding: 30px 50px;
+} */

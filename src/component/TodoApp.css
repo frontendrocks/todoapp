@@ -1,0 +1,23 @@
+/* .mainForm {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+} */
+
+
+.outer {
+ background-color: #eef3f6;
+ padding: 30px;
+ border: 1px solid #ddd;
+ border-radius: 10pt;
+ margin-top: 50px!important;
+ width: 800px;
+
+}
+li.list-group-item.strikeThrough {
+    text-decoration: line-through;
+}
+
+button.delete {
+    float: right;
+}
